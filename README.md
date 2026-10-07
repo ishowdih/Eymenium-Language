@@ -78,6 +78,8 @@ Eymenium/
 ## Building
 
 Eymenium uses **CMake** as its build system.
+if you don't want to clone the repo or write terminal commands, you can install it from its [official website](https://eymenium.pages.dev)
+but if you use Linux, then you have to clone the repo and use the terminal because i didn't make the Linux version yet.
 
 Clone the repository:
 
