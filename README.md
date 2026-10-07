@@ -82,7 +82,7 @@ Eymenium uses **CMake** as its build system.
 Clone the repository:
 
 ```bash
-git clone <REPOSITORY_URL>
+git clone https://github.com/ishowdih/Eymenium-Language.git
 cd Eymenium
 ```
 
