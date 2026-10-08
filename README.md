@@ -23,7 +23,7 @@ It is designed to have a simple and readable syntax while still providing featur
 
 ```eymenium
 exp greet(name):
-    out("Hello,) " + name
+    out("Hello,") + name
 
 greet("World")
 ```
