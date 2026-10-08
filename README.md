@@ -22,8 +22,8 @@ It is designed to have a simple and readable syntax while still providing featur
 ## Example
 
 ```eymenium
-exp greet(name)
-    out "Hello, " + name
+exp greet(name):
+    out("Hello,) " + name
 
 greet("World")
 ```
@@ -31,19 +31,19 @@ greet("World")
 A simple loop:
 
 ```eymenium
-loop i within range(5)
-    out i
+loop i within range(5):
+    out(i)
 ```
 
 Conditional statements:
 
 ```eymenium
-chk age >= 18
-    out "Adult"
-orchk age >= 13
-    out "Teenager"
-nah
-    out "Child"
+chk age >= 18:
+    out("Adult")
+orchk age >= 13:
+    out("Teenager")
+nah:
+    out("Child")
 ```
 
 ## Why Eymenium?
