@@ -1,5 +1,8 @@
 # Eymenium Language
 
+<img width="1983" height="793" alt="resim" src="https://github.com/user-attachments/assets/1956798b-91a7-4d9e-b0d5-bc6612db77a7" />
+
+
 **Eymenium** is a lightweight, easy-to-learn programming language written in **C++**.
 
 It is designed to have a simple and readable syntax while still providing features such as functions, loops, classes, modules, exception handling, and more.
