@@ -141,7 +141,7 @@ See the `LICENSE` file for the license used by this project.
 
 - **Website:** https://eymenium.pages.dev/
 - **Documentation:** https://eymenium.pages.dev/learn
-- **Source Code:** `https://github.com/ishowdih/Eymenium-Language/`
+- **Source Code:** https://github.com/ishowdih/Eymenium-Language/
 
 ---
 
